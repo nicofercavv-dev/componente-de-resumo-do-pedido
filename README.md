@@ -19,3 +19,6 @@ O usuário deve ser capaz de ver os hover states dos elementos interativos
   - Porcentagens
   - Área visível
 - Media queries
+<br>
+<br>
+Projeto tirado do site <a href="https://frontendmentor.io/" target="_blank">Frontend Mentor<a>
