@@ -1,5 +1,5 @@
 # Componente de resumo do pedido 🛒
-Desafio de criação de um componente de resumo de um pedido de assinatura em HTML/CSS disponibilizado no site Frontend Mentor
+Desafio de criação de um componente de resumo de um pedido de assinatura em HTML/CSS. Projeto disponibilizado no site [Frontend Mentor](https://frontendmentor.io/).
 
 ## Sobre o desafio
 O usuário deve ser capaz de ver os hover states dos elementos interativos
@@ -21,4 +21,3 @@ O usuário deve ser capaz de ver os hover states dos elementos interativos
 - Media queries
 <br>
 <br>
-Projeto tirado do site <a href="https://frontendmentor.io/" target="_blank">Frontend Mentor<a>
